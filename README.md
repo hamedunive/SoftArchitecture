@@ -33,11 +33,10 @@ git clone https://github.com/hamedunive/SoftArchitecture.git
 - Check who did the tasks (challenges) and review them.
 
 ## Description of Architecture
-The application uses Service-Based architecture, which is divided into four modules:
+The application uses Service-Based architecture, which is divided into three modules:
 - Company Login
 - Developer Login
 - Landing Page
-- Database 
 
 This architecture prioritizes simplicity and ease of understanding in coding while keeping modularity. Each module can be run in docker independently.
 
